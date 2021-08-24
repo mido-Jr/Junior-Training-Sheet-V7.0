@@ -1,6 +1,8 @@
 # Junior-Training-Sheet-V7.0
 Hi
+
 This is my solve for Junior Training Sheet V7.0 By Dr Mostafa Saad Ibrahim. 
+
 Overall ~950 problems for newcomers to problem solving. 
 
 Link of the sheet 
